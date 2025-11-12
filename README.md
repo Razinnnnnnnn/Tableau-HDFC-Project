@@ -8,7 +8,8 @@ The dashboards provide insights into branch profitability, customer segmentation
 
 ## Tableau Public Link
 Final workbook published to Tableau Public:  
-<https://public.tableau.com/app/profile/muhammed.razin.v/viz/hdfcbankdata_17629468986570/HDFC?publish=yes>
+<https://public.tableau.com/app/profile/muhammed.razin.v/viz/hdfcbankdata_17629468986570/HDFC>
+
 
 
 ## Key Insights
